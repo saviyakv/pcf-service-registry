@@ -1,6 +1,6 @@
 applications:
 - name: sample-microservice
-path: target/service-registry-pcf.jar
+path: target/PCFServiceRegistry.jar
 domain: cfapps.io
 memory: 1G
 instances: 1
