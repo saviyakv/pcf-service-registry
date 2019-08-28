@@ -1,4 +1,4 @@
-package com.javatechie.spring.cloud.pcf;
+package com.sample.spring.cloud.pcf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
